@@ -307,7 +307,7 @@ Relationships:
 
 This page shows high-level business performance, including revenue, orders, customers, average order value, delivery days, and review score.
 
-![Executive Overview](reports/Page1 - Executive Overview.png)
+![Executive Overview](reports/Executive_Overview.png)
 
 ---
 
@@ -315,7 +315,7 @@ This page shows high-level business performance, including revenue, orders, cust
 
 This page analyzes product category performance, item sales, seller performance, freight contribution, top seller state, top seller, highest AOV category, and highest items sold category.
 
-![Product and Seller Analysis](reports/Page2 - Product & Seller Analysis.png)
+![Product and Seller Analysis](reports/Product_Seller_Analysis.png)
 
 ---
 
@@ -323,7 +323,7 @@ This page analyzes product category performance, item sales, seller performance,
 
 This page analyzes delivery performance, late delivery rate, positive review rate, review score distribution, and the relationship between delivery performance and customer review score.
 
-![Delivery and Review Analysis](reports/Page3 - Delivery & Review Analysis.png)
+![Delivery and Review Analysis](reports/Delivery_Review_Analysis.png)
 
 ---
 
@@ -331,7 +331,7 @@ This page analyzes delivery performance, late delivery rate, positive review rat
 
 This page explains the dashboard purpose, data source, main metrics, and the value of the analysis.
 
-![About This Dashboard](reports/About Dashboard.png)
+![About This Dashboard](reports/About_Dashboard.png)
 
 ---
 
