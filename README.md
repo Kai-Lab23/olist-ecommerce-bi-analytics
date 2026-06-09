@@ -110,15 +110,15 @@ data/raw/
 
 ## Main Tables Used
 
-| Table            | Description                             |
-| ---------------- | --------------------------------------- |
-| `orders`         | Order status and order timeline         |
-| `order_items`    | Product-level transaction data          |
-| `order_payments` | Payment method and payment value        |
-| `order_reviews`  | Customer review score and comments      |
-| `customers`      | Customer location data                  |
-| `products`       | Product category and product attributes |
-| `sellers`        | Seller location data                    |
+| Table | Description |
+|---|---|
+| `orders` | Order status and order timeline |
+| `order_items` | Product-level transaction data |
+| `order_payments` | Payment method and payment value |
+| `order_reviews` | Customer review score and comments |
+| `customers` | Customer location data |
+| `products` | Product category and product attributes |
+| `sellers` | Seller location data |
 
 ---
 
@@ -381,7 +381,7 @@ For Windows:
 
 ```bash
 python -m venv venv
-venv\Scripts\activate
+.\venv\Scripts\activate
 ```
 
 For Mac/Linux:
@@ -503,5 +503,5 @@ If the dashboard file is not included in this repository, the dashboard preview 
 
 ## Author
 
-**Khairu Ikramendra**
+**Khairu Ikramendra**  
 Data Analyst / BI Analyst Portfolio Project
