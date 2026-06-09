@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+seaborn
+sqlalchemy
+python-dotenv
+jupyter
+ipykernel
+openpyxl
