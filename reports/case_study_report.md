@@ -238,7 +238,7 @@ Main components:
 * Revenue by product category
 * Growth indicators compared to previous period
 
-![Executive Overview](Page1 - Executive Overview.png)
+![Executive Overview](Executive_Overview.png)
 
 ---
 
@@ -258,7 +258,7 @@ Main components:
 * Highest AOV category
 * Highest items sold category
 
-![Product and Seller Analysis](Page2 - Product & Seller Analysis.png)
+![Product and Seller Analysis](Product_Seller_Analysis.png)
 
 ---
 
@@ -278,7 +278,7 @@ Main components:
 * Delivery performance overview
 * Average review score by state
 
-![Delivery and Review Analysis](Page3 - Delivery & Review Analysis.png)
+![Delivery and Review Analysis](Delivery_Review_Analysis.png)
 
 ---
 
@@ -286,7 +286,7 @@ Main components:
 
 This page explains the dashboard purpose, data source, main metrics, and analysis value.
 
-![About This Dashboard](About Dashboard.png)
+![About This Dashboard](About_Dashboard.png)
 
 ---
 
